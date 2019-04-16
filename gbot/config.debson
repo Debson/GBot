@@ -1,0 +1,37 @@
+# Don't change commands. Change only values! Better don't make a typo! Enjoy :)
+username 						"your_username"
+password						"your_password"
+# Enter a number(eg. 31)
+server							"31"
+
+# Expeditions/Dungeons
+expedition_enabled 				"1"
+dungeon_enabled					"1"
+# 0 - normal, 1 - advanced
+dungeon_type					"0"
+expedition_location				"Bandit Camp"
+dungeon_location				"Barbarian Village"
+monster_name					"Renegade Soldier"
+
+# Arenas settings
+circus_turma_enabled			"0"
+circus_provinciarum_enabled		"1"
+arena_enabled					"0"
+arena_provinciarum_enabled		"0"
+
+# minimum health as percentage of maximum health when bot should start healing
+min_health_percentage			"25"
+
+# Training settings
+training_enabled				"1"
+skill_to_train					"Dexterity"
+
+# Special/Event location settings
+special_location_enabled 		"1"
+special_location				"Wild Farm"
+special_monster_name			"Babe the Runaway Sow"
+# how often bot should go to the special location(in minutes)
+special_location_frequency		"5"
+
+
+
