@@ -1,2 +1,2 @@
 # GBot
-Bot that automates Gladiatus game
+Python bot that using selenium webdriver automates repetitive tasks in webrowser game - Gladiatus
